@@ -1,0 +1,1 @@
+ms-cognitive-image-search

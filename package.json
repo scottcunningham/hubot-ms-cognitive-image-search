@@ -1,0 +1,24 @@
+{
+  "name": "hubot-ms-cognitive-image-search",
+  "version": "0.0.1",
+  "description": "Hubot script to fetch cat pictures.",
+  "main": "ms-cognitive-image-search.coffee",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scottcunningham/hubot-ms-cognitive-image-search.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "cats"
+  ],
+  "dependencies": {},
+  "author": "Scott Cunningham <scottcunningham@users.noreply.github.com>",
+  "bugs": {
+    "url": "https://github.com/scottcunningham/hubot-ms-cognitive-image-search/issues"
+  },
+  "homepage": "https://github.com/scottcunningham/hubot-ms-cognitive-image-search",
+  "devDependencies": {},
+  "license": "GPLv3"
+}
